@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "my-rg" {
-  name     = "jindal_rg"
+  name     = "skumar26_rg"
   location = "West Europe"
 }
 
